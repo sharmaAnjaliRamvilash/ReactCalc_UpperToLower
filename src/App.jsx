@@ -46,3 +46,13 @@ function App() {
 
 export default App
 
+
+// …or create a new repository on the command line
+// echo "# ReactCalc_UpperToLower" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/sharmaAnjaliRamvilash/ReactCalc_UpperToLower.git
+// git push -u origin main
+
